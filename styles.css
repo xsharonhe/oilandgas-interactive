@@ -36,3 +36,7 @@ h1 {
     margin-top: 20px;
     margin-bottom: 30px; 
 }
+
+#price-changes {
+    text-align: center;
+}
