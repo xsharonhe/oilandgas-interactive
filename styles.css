@@ -36,3 +36,8 @@ h1 {
     text-align: center;
 }
 
+#corr-heatmap {
+    width: 60%;
+    height: 60%;
+    margin: auto;
+}
