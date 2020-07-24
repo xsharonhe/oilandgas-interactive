@@ -1,0 +1,44 @@
+html {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+nav {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.title {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #1a1a1a;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.table {
+    width: 70vw;
+    margin: auto;
+}
+
+.table-header {
+    font-size: 1rem;
+}
+
+.alert {
+    width: 70vw;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 30px; 
+}
