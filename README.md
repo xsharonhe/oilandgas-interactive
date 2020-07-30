@@ -1,2 +1,2 @@
-# oilandgas-interactive
-HTML interactive webpage for "effect of oil and gas" visualizations for the interactive visualizations' large HTML files. GitHub repo (Jupyter notebooks etc.) for this project can be found here: https://github.com/xsharonhe/data-visualizations/tree/master/project-intl-flight-tracking/effects%20of%20oil%20and%20gas
+# cvt-showcasing-webpage
+One stop for all of my visualizations made during my time at cvt. GitHub repo (Jupyter notebooks, data sources etc.) for my work (e.g. data cleaning, eda) can be found here: https://github.com/xsharonhe/cvt-scripts 
